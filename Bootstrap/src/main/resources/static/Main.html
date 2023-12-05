@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>User Authentication</title>
+</head>
+<body>
+<div class="container">
+  <h1>User Authentication</h1>
+  <form method="post">
+    <div class="option">
+        <input type="radio" id="registered" name="authOption" value="registered">
+        <label for="registered">I am a registered user</label>
+    </div>
+    <div class="input-group" id="usernameInputGroup">
+      <label for="username">Enter your username:</label>
+      <input type="text" id="username" name="username">
+    </div>
+    <button type="submit" id="submitButton">Submit</button>
+  </form>
+</div>
+<script src="script.js"></script>
+</body>
+</html>

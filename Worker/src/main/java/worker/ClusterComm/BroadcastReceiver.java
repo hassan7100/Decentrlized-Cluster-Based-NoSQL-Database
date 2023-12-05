@@ -1,0 +1,27 @@
+package worker.ClusterComm;
+
+
+import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+import worker.Query.Query;
+import worker.Query.QueryHandlerFactory;
+
+@RestController
+@RequestMapping("/broadcast")
+@Slf4j
+public class BroadcastReceiver {
+    @Autowired
+    private QueryHandlerFactory queryHandlerFactory;
+    @PostMapping("/Query")
+    public void receiveBroadcast(@RequestBody Query message) {
+        log.info("Received broadcast message");
+        if(message.getSchema().isNull()) {
+            message.setSchema(null);
+        }
+        queryHandlerFactory.getQueryHandler(message).handleQuery(message);
+    }
+}

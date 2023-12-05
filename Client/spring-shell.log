@@ -1,0 +1,1155 @@
+1693490688308:clear
+1693490693454:helo
+1693490696990:help
+1693490703065:clear
+1693490727205:add 1 5
+1693490753808:clear
+1693490755509:help
+1693490763600:add 1 5
+1693490769488:add 4 7
+1693495170426:help
+1693495173173:ad
+1693495174520:add
+1693495280361:clear
+1693495289063:clear q
+1693495294656:help
+1693495311722:add 1 2
+1693495316307:add 3 4
+1693496325764:help
+1693496334236:contact joe 123
+1693497270876:help
+1693497283232:contact joe 123
+1693497299165:contact hello 123
+1693497410129:contact 123
+1693497430966:contact joe 123
+1693497446420:contact hello 123
+1693518086924:createDatabase db1
+1693518122518:help
+1693518151358:create-database db1
+1693518555155:connect hello 123
+1693518564728:help
+1693518572378:contact hello 123
+1693518604189:create-database db2
+1693518677967:stacktrace
+1693518770312:contact hello 123
+1693518800866:create-database db3
+1693519610055:cleat
+1693519612113:clear
+1693519655853:clear -l
+1693519660776:help
+1693519666388:contact help 123
+1693519686701:contact hello 123
+1693519697345:create-database db2
+1693520022588:stacktrace
+1693520180453:contact hello 123
+1693520195167:create-database db3
+1693520753517:contact joe 123
+1693520770868:create-database db10
+1693520810871:contact hello 123
+1693520826715:create-database db10
+1693520896294:contact joe 123
+1693520904055:create-database db10
+1693521105119:contact hello 123
+1693521119729:create-database db20
+1693521160213:contact hello 123
+1693521169790:create-database db20
+1693521362642:contact hello 123
+1693521373799:create-database db10
+1693521430461:contact hello 123
+1693521440186:create-database db10
+1693521889605:contact hello 123
+1693521897564:create-database db10
+1693522134933:contact hello 123
+1693522147764:create-database db10
+1693522845362:hello
+1693522851396:contact hello 123
+1693522862803:create-database db10
+1693523081613:contact hello 123
+1693523092373:create-database db10
+1693523537348:contact hello 123
+1693523554439:create-database db10
+1693523770537:contact hello 123
+1693523786942:create-database 123
+1693523960273:contact hello 123
+1693523968578:create-database db10
+1693524026688:contact hello 123
+1693524038537:create-database db10
+1693524088790:stacktrace
+1693524144510:contact hello 123
+1693524153717:create-database db10
+1693524378923:contact hello 123
+1693524388901:create-database db10
+1693524858531:contact hello 123
+1693524977839:create-database db10
+1693525165671:contact joe 123
+1693525174351:create-database db10
+1693525635826:contact hello 123
+1693525644227:create-database db10
+1693525712560:contact hello 123
+1693525724253:create-database db10
+1693525774989:contact hello 123
+1693525781911:create-database db10
+1693525841235:contact hello 123
+1693525853297:create-database db10
+1693525913507:contact hello 123
+1693525922070:create-database db210
+1693525983628:contact hello 123
+1693526016750:create-database db10
+1693526316800:contact hello 123
+1693526376784:create-database db10
+1693526393977:stacktrace
+1693526577198:contact hello
+1693526583080:contact hello 123
+1693526594848:create-database db10
+1693526826990:contact joe 123
+1693526847356:create-database db11
+1693526868787:create-collection db11 c1
+1693526905374:delete-database db11
+1693527015298:contact joe 123
+1693527073527:create-collection db11 c1
+1693527096813:delete-collection db1 c1
+1693527130555:help
+1693527366708:contact hello 123
+1693527377205:help
+1693527390428:get-databases
+1693527437943:stacktrace
+1693527712846:get-collections
+1693527727748:get-collections --dbname db1
+1693527746835:get-collections 00dbName db1
+1693527799815:get-collections dbName db11
+1693557611946:contact hello 123
+1693557631453:create-database db1
+1693557646806:create-database db2
+1693557654719:create-database db3
+1693557666685:create-database db4
+1693557696625:show-databases
+1693557704106:get-databases
+1693557712798:stacktrace
+1693558390835:contact hello 123
+1693558448180:create-database db1
+1693558460235:create-databases db2
+1693558471445:create-database db3
+1693558478029:get-databases
+1693558523749:stacktrace
+1693558989040:contact hello 123
+1693559015251:create-database db1
+1693559025447:create-database db2
+1693559032338:create-database db3
+1693559045533:get-databases
+1693559758142:contact joe 123
+1693559788570:create-database db1
+1693575082273:contact joe 123
+1693575091194:create-database db1
+1693576305581:contact joe 123
+1693576360195:create-database db1
+1693576536533:contact hello 123
+1693576554869:create-database db2
+1693576571052:stacktrace
+1693576628499:delete-database db1
+1693576668471:contact hello 123
+1693576677771:create-database db1
+1693576688080:create-database db3
+1693576697750:create-database db10
+1693576724409:create-collection db1 c1
+1693577653910:contact joe 123
+1693577690391:create-database db1
+1693577712293:create-collection db1 c1
+1693577724617:help
+1693577848495:contact joe 123
+1693577864227:create-database db2
+1693577875846:create-collection db2 c1
+1693577949126:create-document db2 c1 {"_Id":1, "name":"Hassan"}
+1693577978878:create-document db2 c1 "{"_Id":1, "name":"Hassan"}"
+1693578055026:add-document db2 c1 {"_Id":1, "name": "Hassan"}
+1693578138877:contact joe 123
+1693578189384:add-document db2 c1 {"_Id":1, "name":"Hassan"}
+1693578749189:add-document db2 c1 '{"_Id":1, "name":"Hassan"}'
+1693578807577:add-document db2 c1 {"_Id":1, "name":"Hassan"}
+1693578821171:stacktrace
+1693578977323:processJson '{"key1": "value1", "key2": "value2"}'
+1693578996327:process-json '{"key1": "value1", "key2": "value2"}'
+1693579087895:contact joe 12
+1693579094399:contact joe 123
+1693579152514:add-document db1 c1 '{"key1": "value1", "key2": "value2"}'
+1693579338460:contact joe 123
+1693579355357:add-document db1 c1 '{"_id":1,"key1": "value1", "key2": "value2"}'
+1693579603716:add-document db1 c1 '{"_id":2,"key1": "value1", "key2": "value2"}'
+1693579621553:add-document db1 c1 '{"_id":4,"key1": "value1", "key2": "value2"}'
+1693579685797:delete-document db1 c1 4
+1693839541906:contact joe 123
+1693839566224:create-database db1
+1693839855591:contact joe 123
+1693839873600:create-database db1
+1693839909770:help
+1693839926386:create-collection db1 c1
+1693840683836:contact hello 123
+1693840713202:create-collection db1 c1
+1693841082886:contact joe
+1693841089605:contact joe 123
+1693841100110:create-database db1
+1693841134533:create-collection db1 c1
+1693841564033:contact joe 123
+1693841578263:create-database db1
+1693841590213:create-database db2
+1693841601940:create-collection db2 c1
+1693842171087:contact joe 123
+1693842180764:create-database db1
+1693842196560:create-collection db1 c1
+1693842772545:contact joe 123
+1693842783101:create-database db1
+1693842795306:create-collection db1 c1
+1693842865170:help
+1693842900404:get-databases
+1693842952547:add-document {"_id":1, "name": "Hassan"}
+1693843210165:add-document '{"_id":1, "name": "Hassan"}'
+1693843236049:add-document db1 c1 '{"_id":1, "name": "Hassan"}'
+1693843901227:ontact joe 123
+1693843911818:contact joe 123
+1693843933756:create-database db1
+1693843946038:create-collection db1 c1
+1693843952478:help
+1693843967123:add-document db1 c1 '{"_id":1, "name": "Hassan"}'
+1693845119267:contact joe 123
+1693845142062:create-database db1
+1693845151310:create-collection c1
+1693845168589:add-document db1 c1 '{"_id":1, "name": "Hassan"}'
+1693845254392:add-document db1 c1 '{"_id":2, "name": "Hassan"}'
+1693845379276:create-collection db1 c1
+1693845394138:add-document db1 c1 '{"_id":2, "name": "Hassan"}'
+1693845763317:contact joe 123
+1693845775412:create-database db1
+1693845784505:create-collection db1 c1
+1693845790397:help
+1693845826160:add-document db1 c1 '{"_id":1, "name": "Hassan"}'
+1693845907137:contact joe 123
+1693845932410:add-document db1 c1 '{"_id":1, "name": "Hassan"}'
+1693845979210:add-document db1 c1 "{"_id":1, "name": "Hassan"}"
+1693846090403:add-document db1 c1 {\\"key1\\": \\"value1\\", \\"key2\\": \\"value2\\"}
+1693846122905:add-document db1 c1 {\\"_id\\": 1, \\"key2\\": \\"value2\\"}
+1693846141191:add-document db1 c1 '{\\"_id\\": 1, \\"key2\\": \\"value2\\"}'
+1693846232193:contact joe 123
+1693846241835:add-document db1 c1 {\\"_id\\": 1, \\"key2\\": \\"value2\\"}
+1693846250234:add-document db1 c1 '{\\"_id\\": 1, \\"key2\\": \\"value2\\"}'
+1693846313159:contact joe 123
+1693846320161:add-document db1 c1 '{\\"_id\\": 1, \\"key2\\": \\"value2\\"}'
+1693846379880:add-document 'db1' 'c1' '{\\"_id\\": 1, \\"key2\\": \\"value2\\"}'
+1693846430369:add-document
+1693846465803:add-document --dbName db1 --collectionName c1 --document {\\"_id\\": 1, \\"key2\\": \\"value2\\"}
+1693846488657:add-document --dbName db1 --collectionName c1 --document '{\\"_id\\": 1, \\"key2\\": \\"value2\\"}'
+1693846527140:add-document --dbName db1 --collectionName c1 --document '{_id: 1, key2: value2}'
+1693846571660:add-document --dbName db1 --collectionName c1 --document '{\\"_id\\": 1, \\"key2\\": \\"value2\\"}'
+1693846631387:contact joe 123
+1693846635037:add-document --dbName db1 --collectionName c1 --document '{\\"_id\\": 1, \\"key2\\": \\"value2\\"}'
+1693846871673:add-document --dbName db1 --collectionName c1 --document '{"_id": 1, "key2": "value2"}'
+1693846975293:add-document db1 c1 '{"_id": 1, "key2": "value2"}'
+1693847092801:help
+1693847114449:add-document 'db1'  'c1'  '{"_id": 1, "key2": "value2"}'
+1693847166201:contact joe 123
+1693847171579:add-document --dbName db1 --collectionName c1 --document '{"_id": 1, "key2": "value2"}'
+1693847297096:contact joe 123
+1693847313560:add-document --dbName db1 --collectionName c1 --document '{"_id": 1, "key2": "value2"}'
+1693848020888:contact joe 123
+1693848035136:create-database db1
+1693848048229:create-collection db1 c1
+1693848107108:add-document db1 c1 '{"_id":1, "name":"Hassan"}'
+1693848446045:help
+1693848487401:delete-document db1 c1 1
+1693850979425:contact joe 123
+1693851680642:create-database db1
+1693851692690:create-collection db1 c1
+1693851725356:add-document db1 c1 '{"_id":1,"name":"Hassan"}'
+1693851769418:help
+1693851798537:delete-document db1 c1 1
+1693852502422:contact joe 123
+1693852512252:create-database db1
+1693852523949:create-collection db1 c1
+1693852555513:add-document db1 c1 '{"_id":1, "name":"Hassan"}'
+1693852578104:delete-docuement db1 c1 1
+1693852589088:help
+1693852608195:delete-document db1 c1 1
+1693854952245:contact joe 123
+1693854958909:create-database
+1693854965174:create-database db1
+1693854979957:create-collection db1 c1
+1693855015416:add-document db1 c1 '{"_id":1, "name":"Hassan"}'
+1693855026501:delete-document db1 c1 1
+1693855501237:delete-collection
+1693855517775:delete-collection db1 c1
+1693856894844:contact joe 123
+1693856930536:create-database db1
+1693856949873:create-collection db1 c1
+1693856960890:delete-collection db1 c1
+1693857007403:create-collection db1 c1
+1693857049990:add-document db1 c1 '{"_id":1,"name":"Hassan"}'
+1693857068269:delete-collection db1 c1
+1693857083068:create-collection db1 c1
+1693857090362:add-document db1 c1 '{"_id":1,"name":"Hassan"}'
+1693857106525:delete-document db1 c1 1
+1693859712160:contact joe 123
+1693859724504:create-database db1
+1693859736964:create-collection db1 c1
+1693859773492:add-document db1 c1 '{"_id":1,"Hassan":"Safadi"}'
+1693859790435:delete-document db1 c1 1
+1693860649053:contact joe 123
+1693905004259:clear
+1693905007205:help
+1693905015549:contact joe 123
+1694034141764:contact hello 123
+1694288156175:contact joe 123
+1694288246068:help
+1694288294673:add-document db1 c1 '{"_id":1,"name":"Hassan"}'
+1694341168666:help
+1694341480618:help Admin Commands
+1694341600809:help
+1694345000652:hello
+1694345005057:help
+1694345039592:login-admin hello 123
+1694345147440:clear
+1694345182233:sign-up hassan 123 hassan@gmail.com
+1694345203056:login hassan 123
+1694345499307:login hello 123
+1694345868679:clear
+1694345873658:login hello 123
+1694345886868:stacktrace
+1694345980336:login hello 123
+1694346214220:help
+1694347750188:sign-up hassan11 123 hassan123@gmail.com
+1694347776632:stacktrace
+1694371061858:login hello 123
+1694503732400:login admin admin
+1694503816050:sign-up hassan hassan hassan@gmail.com
+1694503974052:login admin admin
+1694503993528:create-database db1
+1694505189823:delete-database db1
+1694505215027:create-database db1
+1694505426528:login admin admin
+1694505448208:create-collection db1 c1
+1694505498679:login admin admin
+1694505508671:create-collection db1 c1
+1694505566511:add-document db1 c1 '{"_id":1, "Name":"Hassan"}'
+1694505661930:get-databases
+1694505696722:login admin admin
+1694505707122:get-databases
+1694507596229:login admin admin
+1694507607495:get-databases
+1694507612482:help
+1694507676154:add-field
+1694507720706:add-field db1 c1 1 name Sozan
+1694507735971:add-field db1 c1 1 name 'Sozan'
+1694507788966:add-field db1 c1 1 name "Sozan"
+1694507868048:login admin admin
+1694507876107:add-field db1 c1 1 name Sozan
+1694507925716:login admin admin
+1694507928021:add-field db1 c1 1 name Sozan
+1694508016856:login admin admin
+1694508018964:add-field db1 c1 1 name Sozan
+1694508085129:update-field db1 c1 1 name '{"array":1}'
+1694508203544:login admin admin
+1694508217217:add-field db1 c1 1 name Sozan
+1694508227113:stacktrace
+1694508250240:add-field db1 c1 1 name '{"name":"baqdones"}'
+1694508287693:add-field db1 c1 1 name {"name":"baqdones"}
+1694508295128:stacktrace
+1694508403375:login admin admin
+1694508409802:add-field db1 c1 1 name '{"name":"baqdones"}'
+1694508436663:add-field db1 c1 1 name1 '{"name":"baqdones"}'
+1694508502817:login admin admin
+1694508510239:add-field db1 c1 1 name2 '{"name":"baqdones"}'
+1694508521721:add-field db1 c1 1 name1 {"name":"baqdones"}
+1694508538470:add-field db1 c1 1 name1 '{"name":"baqdones"}'
+1694508576124:add-field db1 c1 1 name1 '{\\"name\\":\\"baqdones\\"}'
+1694508681583:add-field db1 c1 1 name1 "{"name":"baqdones"}"
+1694508758127:login admin admin
+1694508764563:add-field db1 c1 1 name1 '{"name":"baqdones"}'
+1694509019596:add-field db1 c1 1 name1 "{\\"name\\":\\"baqdones\\"}"
+1694509033113:add-field db1 c1 1 name1 '{\\"name\\":\\"baqdones\\"}'
+1694509051916:stacktrace
+1694509124979:proccess-json '{"name":"Hassan"}'
+1694509140899:process-json '{"name":"Hassan"}'
+1694509197844:login admin admin
+1694509212989:add-field
+1694509240332:add-field 'db1' 'c1' 1 'name3' 'Hassan'
+1694509304362:login admin
+1694509310115:login admin admin
+1694509360392:add-field db1 c1 1 hassan '{"name":"hassan"}'
+1694509438674:login admin admin
+1694509442880:add-field db1 c1 1 hassan '{"name":"hassan"}'
+1694509770425:login admin admin
+1694509840684:delete-field db1 c1 1 name
+1694509864476:delete-field db1 c1 1 name1
+1694509893059:delete-field db1 c1 1 hassan
+1694509949460:update-field db1 c1 1 Name Sozan
+1694509962782:update-field db1 c1 1 Name 'Sozan'
+1694510100595:login admin admin
+1694510125644:update-field db1 c1 1 Name 'Sozan'
+1694510156888:update-field db1 c1 1 Name Sozan
+1694510217970:update-field db1 c1 1 Name Hassan
+1694510225016:login admin admin
+1694510233776:update-field db1 c1 1 Name Hassan
+1694510256145:update-field db1 c1 1 Name "Hassan"
+1694510296779:login admin admin
+1694510318490:update-field db1 c1 1 Name Hassan
+1694510355585:update-field db1 c1 1 Name '{"Hassan":1}'
+1694510430613:update-field db1 c1 1 Name Hassan
+1694510436579:login admin admin
+1694510438645:update-field db1 c1 1 Name Hassan
+1694510645514:login admin admin
+1694510695815:update-field db1 c1 1 Name Hassan
+1694510861659:login admin admi
+1694510867066:login admin admin
+1694510909085:update-field db1 c1 1 '{"Name":"Hassan1"}'
+1694511191458:login admin admin
+1694511211496:update-field db1 c1 1 Name Hassan
+1694511242935:update-field db1 c1 1 Name '{"Hassan":1}'
+1694511258674:update-field db1 c1 1 Name 1
+1694511694584:get-documents db1 c1
+1694511779348:login admin admin
+1694511789320:get-documents
+1694511802439:get-documents db1 c1
+1694512028596:login admin admin
+1694512041719:help
+1694512060901:get-document-by-field db1 c1 Name 1
+1694512090432:login admin admin
+1694512091586:shell:>get-document-by-field db1 c1 Name 1
+1694512101843:get-document-by-field db1 c1 Name 1
+1694684182474:clear
+1694684189582:help
+1694684192512:login
+1694685879345:help
+1694685888155:get-logs
+1694685970029:login
+1694685977172:get-logs
+1694686027568:create-database db1
+1694686060918:create-collection db1 c1
+1694686071592:help
+1694686123819:add-document db1 c1 '{"_id":1, "Name":"Hassan", "Array":["Hello","World"]}'
+1694686134116:help
+1694686179166:get-document-by-field db1 c1 Name Hassan
+1694686302121:add-document db1 c1 '{"_id":2, "Name":"Moh","Array":["Hello", "World"]}'
+1694686418772:get-document-by-field db1 c1 Array '["Hello","World"]'
+1694687080196:login
+1694687104557:find-by-field db1 c1 Name Hassan
+1694687110717:help
+1694687138896:get-document-by-field db1 c1 Name Hassan
+1694687203569:get-document-by-field db1 c1 Array '["Hello", "World"]'
+1694704270757:login
+1694704293373:create-database db1
+1694705442568:login
+1694705458868:create-database db1
+1694705488743:create-collection db1 c1
+1694705539934:add-document db1 c1 '{"_id":1, "Name":"Hassan"}'
+1694705549880:elp
+1694705552130:help
+1694705560425:get-logs
+1694705606044:add-document db1 c1 '{"_id":2, "Name":"Fahed"}'
+1694705648338:add-document db1 c1 '{"_id":3, "Name":"Talal"}'
+1694705682102:add-document db1 c1 '{"_id":, "Name":"Jalal"}'
+1694705706343:add-document db1 c1 '{"_id":4, "Name":"Jalal"}'
+1694705724803:add-document db1 c1 '{"_id":5, "Name":"Tasneem"}'
+1694705752948:login
+1694705763049:help
+1694705784664:get-documents db1 c1
+1694706034605:add-field db1 c1 1 Array '["Hello", "World"]'
+1694706642778:login
+1694706656380:create-database db1
+1694706666093:create-collection db1 c1
+1694706692676:login
+1694706703921:create-database db1
+1694706745767:add-field db1 c1 1 Array '["Hello", "World"]'
+1694706788037:add-document db1 c1 '{"_id":1, "Name":"Hassan"}'
+1694706805821:add-field db1 c1 1 Array '["Hello", "World"]'
+1694796729786:login
+1694796752715:create-database db1
+1694796762223:create-collection db1 c1
+1694796802038:add-document db1 c1 '{"_id":1, "Name": "Hassan"}'
+1694797281205:login
+1694797311353:create-database db1
+1694797322440:create-collection db1 c1
+1694797785893:login
+1694797814459:create-database db1
+1694797816936:c1
+1694797826470:create-collection db1 c1
+1694798220550:create-database db1
+1694798231188:create-collection db1 c1
+1694799522698:create-database db1
+1694799534787:create-collection db1 c1
+1694800660561:create-database db1
+1694800744725:create-collection db1 c1
+1694801616503:create-database db1
+1694801627073:create-collection db1 c1
+1694801684511:create-collection db1 c2
+1694801723004:add-docuement db1 c1 '{"_id":1, "Name":"Hassan"}'
+1694801741311:add-document db1 c1 '{"_id":1, "Name":"Hassan"}'
+1694802060630:add-document db1 c2 '{"_id":1, "Name":"Hassan"}'
+1694802192067:add-document db1 c1 '{"_id":2, "Name":"COLI"}'
+1694802918264:help
+1694802946196:get-document-by-field db1 c1 Name Hassan
+1694804118646:create-collection db1 c3
+1694804126571:login
+1694804138289:create-collection db1 c3
+1694804205317:login
+1694804212904:create-collection db1 c4
+1694804767383:login
+1694804784058:create-collection db1 c4
+1694805190425:create-database db1
+1694805200617:create-collection db1 c1
+1694807282669:create-database db1
+1694807288250:create-collection db1 c1
+1694809159772:create-database db1
+1694809169101:create-collection db1 c1
+1694948685959:help
+1694951702070:login
+1694954166368:help
+1694954173259:get-databases
+1694954176527:login
+1694954185035:get-databases
+1694954198793:get-collections test1
+1694954222206:help
+1694954240146:create-collection db1 c1
+1694954258524:create-collection test1 c1
+1694954335132:add-document test1 c1 '{"_id":1, "Name":"Hassan", "Array":["Hello", "World"]}'
+1694954346965:help
+1694954397152:get-document-by-field test1 c1 Array '["Hello", "World"]'
+1694954428029:create-collection test1 c2
+1694954625592:create-collection test1 c3
+1694955226058:clear
+1694955245890:create-database db1
+1694955260520:create-collection db1 c1
+1694955321277:add-document db1 c1 '{"_id":1, "name":"Hassan"}'
+1694955362897:help
+1694955389628:get-document-by-field db1 c1 name Hassan
+1694955432173:get-documents db1 c1
+1694955498844:add-field db1 c1 1 Array '["Hello", "World"]'
+1694955553797:update-field db1 c1 1 Array '["Hello", "Hassan"]'
+1694955627986:delete-field db1 c1 1 Array
+1694955655779:login
+1694955675492:add-field db1 c1 1 Array '["Hello", "World"]'
+1694955774902:create-database db2
+1694955793143:get-document-by-field db1 c1 name Hassan
+1694955836712:update-field db1 c1 1 name mosab
+1694955849419:get-document-by-field db1 c1 name mosab
+1694980427023:login
+1694980443627:create-database db1
+1694980452540:create-database db2
+1694980461372:create-database db3
+1694980473173:create-collection db1 c1
+1694980537669:add-document db1 c1 '{"_id":1, "name":"Hassan1"}'
+1694980584700:add-document db1 c2 '{"_id":1, "name": "Hassan2"}'
+1694980743681:add-collection db2 c1
+1694980757054:create-collection db2 c1
+1694980777447:add-document db2 c1 '{"_id":1, "name": "Hassan2"}'
+1694980961972:find-document db2 c1 name Hassan2
+1694980976125:find-document-by-field db2 c1 name Hassan2
+1694981006246:get-document-by-field db2 c1 name Hassan2
+1695049797715:login
+1695049811769:create-database db1
+1695049823706:create-collection db1 c2
+1695049862581:add-document db1 c2 '{"_id":1, "name":"Hassan"}'
+1695049868653:help
+1695049902720:get-document-by-field db1 c2 name Hassan
+1695050061621:login
+1695050086559:help
+1695050099568:sign-up
+1695050122140:sign-up hassan7100 hassan hassan7100@gmail.com
+1695050127665:login
+1695050151120:create-database db1
+1695050156068:login
+1695050174798:create-database db1
+1695050178271:login
+1695050199061:create-collection db1 c1
+1695050215144:login
+1695050226699:create-collection db1 c1
+1695050232253:login
+1695050279673:add-document db1 c1 '{"_id":1, "name":"Hassan"}'
+1695050300572:get-document-by-field name Hassan
+1695050319746:get-document-by-field db1 c1 name Hassan
+1695073553750:login
+1695073579876:create-database Good-School
+1695073617410:create-collection Good-School Math
+1695074423147:create-collection Good-School English
+1695074467945:create-collection Good-School History
+1695074564781:add-document Good-School Math '{"_id":1, "name":"Hassan", "mathScore":110}'
+1695074590353:add-document Good-School Math '{"_id":1, "name":"Hassan", "mathScore":100}'
+1695074661396:add-document Good-School Math '{"_id":2, "name":"Hassan", "mathScore":1}'
+1695074700515:get-document-by-field Good-School Math name Hassan
+1695074757221:add-document Good-School fdgfdg '{"_id":1, "name":"Hassan"}'
+1695076010650:login
+1695076044228:create-database Good-School
+1695076067151:create-collection Good-School Math
+1695076088307:help
+1695076112482:get-schema Good-School Math
+1695076286020:login
+1695076312582:get-schema Good-School Math
+1695076858756:login
+1695076924699:add-document Good-School Math '{"_id":1, "name":"Hassan", "mathScore":30}'
+1695076945555:get-documents Good-School Math
+1695077004216:add-document Good-School Math '{"_id":2, "name":"helloWorld", "mathScore":12}'
+1695077013532:get-documents Good-School Math
+1695077257180:login
+1695077285402:get-document-by-field name Hassan
+1695077315599:get-document-by-field Good-School Math name Hassan
+1695077431983:login
+1695077474398:get-document-by-index Good-School Math 1
+1695077490410:get-document-by-index Good-School Math 2
+1695077500309:help
+1695077531863:get-documents Good-School Math
+1695114379112:login
+1695114458787:create-database Good-School
+1695114499055:create-collection Good-School Math
+1695116592319:help
+1695116616568:get-documents Good-School Math
+1695116709990:get-databases
+1695116724657:get-collections Good-School
+1695116779679:help
+1695116814911:get-documents Good-School Math
+1695116833654:delete-document Good-School
+1695116864666:delete-dcoument Good-School Math 4
+1695116880934:delete-document Good-School Math 4
+1695118762579:login
+1695118904431:create-database Good-School
+1695119027365:create-collection Good-School Math
+1695119945422:add-document Good-School Math '{"_id":1, "name":"Hassan", "mathScore":50}'
+1695120185686:add-document Good-School Math '{"_id":2, "name":"Moh", "mathScore":110}'
+1695120214375:add-document Good-School Math '{"_id":2, "mathScore":10}'
+1695120953839:get-schema Good-School Math
+1695121089683:help
+1695121117652:get-document-by-index Good-School Math 1
+1695121186821:get-document-by-field Good-School Math mathScore 50
+1695121496281:add-field Good-School Math 1 '{"messege":"Hello"}'
+1695121548490:add-field Good-School Math 1 messege Hello
+1695121559506:get-document-by-index Good-School Math 1
+1695122920411:delete field Good-School Math 1 messege
+1695122934219:delete-field Good-School Math 1 messege
+1695122944979:get-document-by-index Good-School Math 1
+1695123012586:update-feild Good-School Math 1 '{"mathScore":90}'
+1695123027250:update-field Good-School Math 1 '{"mathScore":90}'
+1695123064786:update-field Good-School Math 1 mathScore 90
+1695123074996:get-document-by-index Good-School Math 1
+1695123200527:delete-collection Good-School Math
+1695123214349:get-collections Good-School
+1695123269363:delete-database Good-School
+1695123278022:get-databases
+1695125079140:create-database Good-School
+1695125103500:create-collection Good-School Math
+1695125231136:add-document Good-School Math '{"_id":1, "name":"Hassan", "mathScore":90}'
+1695125248176:login
+1695125276109:get-document-by-id Good-School Math 1
+1695125285490:help
+1695125309987:get-document-by-index Good-School Math 1
+1695125343273:get-document-by-field Good-School Math mathScore 90
+1695125720201:delete-document Good-School Math 1
+1695125753735:get-documents Good-School Math
+1695321142180:login
+1695321159531:create-database Good-School
+1695321648543:login
+1695321666660:create-database Good-School
+1695321827986:create-Collection Math
+1695321839668:create-collection Math
+1695322382148:create-collection Good-School Math
+1695322452204:add-document Good-School Math '{"_id":1, "name":"Hassan", "mathScore":50}'
+1695322535358:add-document Good-School Math '{"_id":2, "name":"Jolina", "mathScore":70}'
+1695322582521:remove-document Good-School Math 2
+1695322588954:help
+1695322604837:delete-document Good-School Math 1
+1695322724077:delete-document Good-School Math 2
+1695322775793:add-document Good-School Math '{"_id":1, "name":"Hassan", "mathScore":50}'
+1695322793560:add-document Good-School Math '{"_id":2, "name":"Hassan", "mathScore":110}'
+1695322859173:get-schema Good-School Math
+1695322925318:get-document-by-index Good-School Math 1
+1695322955441:get-document-by-field Good-School Math mathScore 50
+1695322989251:add-field Good-School Math 1 messege hello
+1695323007747:get-document-by-index Good-School Math 1
+1695323073427:delete-field- Good-School Math 1 messege
+1695323084434:delete-field Good-School Math 1 messege
+1695323097133:get-document-by-index Good-School Math 1
+1695323134745:update-field Good-School Math 1 mathScore 90
+1695323139555:get-document-by-index Good-School Math 1
+1695323176931:delete-collection Good-School Math
+1695323190465:get-collections Good-Shool
+1695323204910:get-Collections Good-School
+1695323219404:get-collections Good-School
+1695323444232:create-collection Good-School Math
+1695328492625:login
+1695328509896:create-database hello
+1695328519755:create-collection c1
+1695328535752:create-collection hello c1
+1695328619763:add-document hello c1 '{"_id":1, "name":"Hassan", "array":["Hello","World"]}'
+1695328640198:create-collection hello c2
+1695328663159:add-document hello c1 '{"_id":2, "name":"Hassan", "array":["Hello","World"]}'
+1695328674870:add-document hello c1 '{"_id":3, "name":"Hassan", "array":["Hello","World"]}'
+1695328680258:add-document hello c1 '{"_id":2, "name":"Hassan", "array":["Hello","World"]}'
+1695328708295:get-documents hello c1
+1695328731405:get-document-by-field hello c1 name Hassan
+1695329003194:update-field hello c1 1 name motaz
+1695389350454:login
+1695389362014:create-database db1
+1695389374246:create-collection db1 c1
+1695389416412:add-document db1 c1 '{"_id":1, "name":"Hassan"}'
+1695401509243:help
+1696624145572:login
+1696624155738:helo
+1696624157464:help
+1696624230482:login
+1696624245216:help
+1696624303159:find-by-multi-filter db1 c1 '{"name": "Hassan", "Hello": "World"}'
+1696624338385:login
+1696624377522:get-document-by-filter db1 c1 '{"name": "Hassan", "Hello": "World"}'
+1696624399280:get-documents-by-multi-filter db1 c1 '{"name": "Hassan", "Hello": "World"}'
+1696624467740:login
+1696624473544:get-document-by-filter db1 c1 '{"name": "Hassan", "Hello": "World"}'
+1696624488901:get-documents-by-multi-filter db1 c1 '{"name": "Hassan", "Hello": "World"}'
+1696624564886:add-document db1 c1 '{"name":"Hassan", "Hello":"Hassan"}'
+1696624574919:get-documents-by-multi-filter db1 c1 '{"name": "Hassan", "Hello": "World"}'
+1696624778718:add-document db1 c1 '{"name":"Hassan"}'
+1696624790229:get-documents-by-multi-filter db1 c1 '{"name": "Hassan", "Hello": "World"}'
+1696779643873:test-database
+1696779786130:get-documents DB1 C1
+1696779978326:get-document-by-index DB1 C1
+1696779988480:get-document-by-index DB1 C1 1
+1696779995841:get-document-by-index DB1 C1 70
+1696780002091:get-document-by-index DB1 C1 33
+1696780006005:get-document-by-index DB1 C1 12
+1696780010068:get-document-by-index DB1 C1 13
+1696780717743:delete-collection DB1 C1
+1696780721936:cls
+1696780724194:clear
+1696789107416:test-database
+1696789161957:help
+1696789179079:delete-collection DB1 C1
+1696789187783:test-database
+1696789242820:delete-collection DB1 C1
+1696789264400:create-collection DB1 C1
+1696789274563:test-database
+1696789297503:delete-database DB1
+1696789302885:test-database
+1696789342136:get-document-by-index DB1 C1 1
+1696789350982:get-document-by-index DB1 C1 2
+1696789354977:get-document-by-index DB1 C1 33
+1696789360749:get-document-by-index DB1 C1 4
+1696789363597:get-document-by-index DB1 C1 100
+1696789377528:get-document-by-index DB1 C1 34
+1696789381919:get-document-by-index DB1 C1 35
+1696789385006:get-document-by-index DB1 C1 55
+1696789390305:get-document-by-index DB1 C1 68
+1696789393268:get-document-by-index DB1 C1 23
+1696789396720:get-document-by-index DB1 C1 12
+1696789458303:delete-database DB1
+1696789467461:test-database
+1696789494030:delete-database DB1
+1696789501186:test-database
+1696789515273:stacktrace
+1696789574879:delete-database
+1696789583040:delete-database DB1
+1696789590232:test-database
+1696789736016:delete-database DB1
+1696789741803:test-database
+1696789779938:delete-database DB1
+1696789789168:test-database
+1696789811842:delete-database DB1
+1696789817588:test-database
+1696789842584:delete-database DB1
+1696789854590:test-database
+1696789897415:delete-database DB1
+1696789906748:test-database
+1696789933808:delete-database DB1
+1696789940330:test-database
+1696789959530:delete-database DB1
+1696790242694:test-database
+1696795949141:login
+1696795964381:create-database DB1
+1696795974520:create-collection C1
+1696795989826:create-collection DB1 C1
+1696796048635:test-database
+1696796161924:create-database DB1
+1696796166386:login
+1696796176193:create0database DB1
+1696796186492:create-database DB1
+1696796194131:create-collection C1
+1696796207031:create-collection DB1 C1
+1696796213937:test-database
+1696797112936:delete-database
+1696797121730:delete-database DB1
+1696797193238:login
+1696797205398:create-database DB1
+1696797213694:create-collection DB1 C1
+1696797222589:test-database
+1696797553116:login
+1696797567993:delete-database DB1
+1696797574280:create-database DB1
+1696797590743:create-collection DB1 C1
+1696797606832:test-database
+1696798502667:delete-database DB1
+1696798518482:login
+1696798529658:create-database DB1
+1696798538354:create-collection DB1 C1
+1696798569503:test-database
+1696798621573:login
+1696798634193:delete-database DB1
+1696798645728:create-database DB1
+1696798655994:create-collection DB1 C1
+1696798667095:test-database
+1696798824800:login
+1696798836966:delete-database DB1
+1696799126281:login
+1696799138415:delete-collection DB1 C1
+1696799618497:login
+1696799638525:shutdown-cluster
+1696799841293:create-database DB1
+1696799899214:login
+1696799910165:create-database DB1
+1696799922494:create-collection DB1 C1
+1696799930767:test-database
+1696800657361:login
+1696800667508:create-database DB1
+1696800679173:create-collection DB1 C1
+1696800687045:test-database
+1696800802916:login
+1696800817568:delete-database DB1
+1696800825278:create-database DB1
+1696800835794:create-collection DB1 C1
+1696800843386:test-database
+1696800900830:login
+1696800910548:delete-database DB1
+1696800920018:create-collection DB1 C1
+1696800934375:create-database DB1
+1696800943870:create-collection DB1 C1
+1696800954796:test-database
+1696801206034:login
+1696801217270:delete-database DB1
+1696801223631:create-database DB1
+1696801235851:create-collection DB1 C1
+1696801249625:test-database
+1696801319131:login
+1696801339952:delete-database DB1
+1696801346941:create-database DB1
+1696801359095:create-collection DB1 C1
+1696801368879:test-database
+1696801423697:login
+1696801434683:delete-database DB1
+1696801441084:create-database DB1
+1696801447598:create-collection DB1 C1
+1696801455975:test-database
+1696801540596:login
+1696801551454:delete-database DB1
+1696801559435:create-database DB1
+1696801568413:create-collection DB1 C1
+1696801576567:test-database
+1696801652598:login
+1696801667212:delete-database DB1
+1696801672887:create-database DB1
+1696801689983:create-collection C1
+1696801704207:create-collection DB1 C1
+1696801713781:test-database
+1696801924116:login
+1696801933403:delete-database DB1
+1696801941512:create-database DB1
+1696801953524:create-collection DB1 C1
+1696801964047:test-database
+1696802692975:login
+1696802705175:delete-database DB1
+1696802712481:create-database DB1
+1696802719846:create-collection DB1 C1
+1696802729221:test-database
+1696802776936:delete-documents
+1696802896614:shutdown-cluster
+1696838697519:login
+1696838707106:create-database DB1
+1696838718259:create-collection DB1 C1
+1696838725386:test-database
+1696838798218:login
+1696838805063:delete-database
+1696838810504:delete-database DB1
+1696838819202:create-database DB1
+1696838830507:create-collection DB1 C1
+1696838839048:test-database
+1696838877736:delete-database DB1
+1696838886037:create-database DB1 C1
+1696838934103:get-databases
+1696838944923:get-collections DB1 C1
+1696838953748:get-collections DB1
+1696838963344:create-collection DB1 C1
+1696838970312:test-database
+1696839019846:delete-database DB1
+1696839027807:create-collection DB1 C1
+1696839039596:create-database DB1
+1696839045953:create-collection DB1 C1
+1696839054835:test-database
+1696839095403:delete-database DB1
+1696839103129:create-database DB1
+1696839111731:create-collection DB1 C1
+1696839125658:test-database
+1696839677881:delete-database DB1
+1696839685417:create-database DB1
+1696839693202:create-collection DB1 C1
+1696839707798:test-database
+1696842196765:login
+1696842205619:delete-database DB1
+1696842211463:create-database DB1
+1696842218919:create-collection DB1 C1
+1696842226520:test-database
+1696842259405:help
+1696842279442:test-database
+1696842345873:help
+1696842350963:test-field
+1696842676075:get-document-by-index DB1 C1 1
+1696842748162:delete-document DB1 C1 1
+1696842815591:add-document DB1 C1 '{"_id":1, "name":"name1", "age":1}'
+1696842823517:help
+1696842828069:test-field
+1696842840633:stacktrace
+1696842971239:login
+1696842979275:delete-database DB1
+1696842986561:create-database DB1
+1696842993420:create-collection DB1 C1
+1696843001999:test-database
+1696843056711:help
+1696843081230:test-field
+1696843143562:stacktrace
+1696843454616:login
+1696843462679:delete-database DB1
+1696843470743:create-database DB1
+1696843478849:create-collection DB1 C1
+1696843495444:test-database
+1696843535087:test-field
+1696843776281:login
+1696843790415:delete-document DB1 C1 1
+1696843826941:create-document DB1 C1 '{"_id":1, "name": "name1", "age":1}'
+1696843850564:add-document DB1 C1 '{"_id":1, "name": "name1", "age":1}'
+1696843877123:stacktrace
+1696843909587:add-document DB1 C1 '{"_id":1, "name": "name1", "age":1}'
+1696843920420:test-field
+1696844015564:get-docuement-by-field DB1 C1 _id 1
+1696844022246:help
+1696844053885:get-document-by-field DB1 C1 _id 1
+1696844062971:get-docuement-by-field DB1 C1 _id 1
+1696844081766:get-document-by-field DB1 C1 _id 1
+1696844100704:get-document-by-field DB1 C1 _id newField1 newValue1
+1696844150183:test-field
+1696844183283:login
+1696844192655:test-field
+1696844212730:delete-database DB1
+1696844230455:create-collection DB1 C1
+1696844242041:create-database DB1
+1696844249910:create-collection DB1 C1
+1696844258817:test-database
+1696844469942:login
+1696844480219:test-field
+1696844527033:login
+1696844533748:test-field
+1696844569223:login
+1696844576719:test-field
+1696844688464:login
+1696844694035:test-field
+1696844783541:login
+1696844795859:delete-collection C1
+1696844806425:delete-collection DB1 C1
+1696844816216:create-collection DB1 C1
+1696844823691:test-database
+1696844869167:test-field
+1696844952381:login
+1696844964187:delete-database DB1 C1
+1696844978284:delete-collection DB1 C1
+1696845014381:create-collection DB1 C1
+1696845026682:create-database DB1
+1696845034006:create-collection DB1 C1
+1696845072452:test-database
+1696845104608:test-field
+1696845184244:login
+1696845193263:delete-collection DB1 C1
+1696845200147:create-collection DB1 C1
+1696845220280:test-database
+1696845258649:test-field
+1696846910075:shutdown-cluster
+1696847191861:login
+1696847200621:create-database
+1696847206321:create-database DB1
+1696847216362:create-collection DB1 C1
+1696847226859:test-database
+1696847274864:login
+1696847289613:test-database
+1696847476674:add-document DB1 C1 '{"_id":2, "name": "Hassan"}'
+1696847480493:login
+1696847488739:add-document DB1 C1 '{"_id":2, "name": "Hassan"}'
+1696847954529:shutdown-cluster
+1696848088679:login
+1696848097906:create-database DB1
+1696848104850:create-collection DB1 C1
+1696848112359:test-database
+1696848159189:stacktrace
+1696848242998:get-document-by-index DB1 C1 1
+1696848258971:get-document-by-index DB1 C1 0
+1696848270886:get-document-by-index DB1 C1 44
+1696848435272:get-document-by-field DB1 C1 _id 1
+1696848449491:get-document-by-field DB1 C1 _id 33
+1696848797657:get-document-by-field DB1 C1 _id 1
+1696848813464:get-document-by-index DB1 C1 1
+1696849052561:shutdown-cluster
+1696849168640:login
+1696849176690:create-database DB1
+1696849183204:create-collection C1
+1696849194128:create-collection DB1 C1
+1696849200726:test-database
+1696849268902:login
+1696849282590:delete-collection DB1 C1
+1696849292286:create-collection DB1 C1
+1696849300733:test-database
+1696849445294:get-document-by-index DB1 C1 1
+1696849904911:get-document-by-index DB1 C1 100
+1696849948421:shutdown-cluster
+1696850056437:login
+1696850065220:create-database DB1
+1696850125084:login
+1696850133843:create-database DB1
+1696850141155:create-collection C1
+1696850150926:create-collection DB1 C1
+1696850157572:test-database
+1696850202424:get-document-by-index DB1 C1 1
+1696850444321:shutdown-cluster
+1696850703900:login
+1696850712151:create-database DB1
+1696850719539:create-collection DB1 C1
+1696850729078:test-database
+1696850769830:get-document-by-index DB1 C1 1
+1696850875255:shutdown-cluster
+1696850981541:login
+1696850996846:create-database DB1
+1696851004507:create-collection DB1 C1
+1696851010383:test-database
+1696851055447:login
+1696851066148:delete-collection DB1 C1
+1696851074191:create-collection DB1 C1
+1696851080548:test-database
+1696851116333:test-field
+1696851778863:delete-collection DB1 C1
+1696851787641:create-collection DB1 C1
+1696851825589:test-database
+1696851861423:test-field
+1696852829337:login
+1696852843176:delete-collection DB1 C1
+1696852850682:create-collection DB1 C1
+1696852875098:test-database
+1696852920782:test-multi-document-indexing
+1696852946830:delete-collection DB1 C1
+1696852960687:create-collection DB1 C1
+1696852977813:test-database
+1696853027047:test-one-document-indexing
+1696853053339:delete-documents
+1696853061080:test-database
+1696855472195:update-field DB1 C1 1 name Hassan
+1696855488964:get-document-by-index DB1 C1 1
+1696857404064:help
+1696857423459:delete-documents
+1696857433855:test-database
+1696857441860:login
+1696857455220:delete-database
+1696857472727:delete-documents
+1696857479306:test-database
+1696857512639:help
+1696857525841:test-one-document-indexing
+1696857569910:test-multi-document-indexing
+1696857588059:delete-documents
+1696857624316:help
+1696857631928:test-database
+1696857691012:test-multi-document-indexing
+1696857959714:get-document-by-field DB1 C1 newField-1 newValue-1
+1696858110446:help
+1696858118883:delete-documents
+1696858125514:test-database
+1696858131194:login
+1696858140157:test-database
+1696858164652:delete-database
+1696858172352:help
+1696858180504:delete-documents
+1696858188259:test-database
+1696858847232:login
+1696858855504:help
+1696858861192:delete-documents
+1696858866201:test-database
+1696858911429:test-multi-document-indexing
+1696858977665:get-document-by-field DB1 C1 newField-0 newField-0
+1696858993049:get-document-by-field DB1 C1 newField-0 newValue-0
+1696859021130:delete-collection DB1 C1
+1696859029644:create-collection DB1 C1
+1696859039998:test-database
+1696859082729:test-multi-document-indexing
+1696859181625:delete-documents
+1696859186621:help
+1696859190930:test-database
+1696859224234:test-one-document-indexing
+1696859517321:get-document-by-field DB1 C1 newField-0 newValue-0
+1696881324292:login
+1696881337883:create-database DB1
+1696881348193:create-collection DB1 C1
+1696881557961:test-database
+1696881580866:stacktrace
+1696881634784:delete-collection DB1 C1
+1696881641834:create-collection DB1 C1
+1696881647386:test-database
+1696881686367:shutdown-cluster
+1696881852172:login
+1696881864995:create-database DB1
+1696881874616:create-collection DB1 C1
+1696882063525:test-database
+1696882163830:delete-collection DB1 C1
+1696882171774:create-collection DB1 C1
+1696882192556:delete-collection DB1 C1
+1696882204893:delete-database DB1
+1696882211899:create-database DB1
+1696882219875:create-collection DB1 C1
+1696882234338:test-database
+1696882330313:help
+1696882345186:test-one-document-indexing
+1696882581917:login
+1696882604318:help
+1696882614098:test-one-document-indexing
+1696882669124:login
+1696882676573:help
+1696882682935:test-one-document-indexing
+1696882717564:delete-collection DB1
+1696882726140:delete-collection DB1 C1
+1696882734375:delete-database DB1
+1696882788939:create-database
+1696882796809:create-database DB1
+1696882803290:create-collection DB1 C1
+1696882965429:help
+1696882970309:test-database
+1696883082525:test-one-document-indexing
+1696883156206:login
+1696883167145:delete-database DB1
+1696883173001:create-database DB1
+1696883180028:create-collection DB1 C1
+1696883190584:test-database
+1696883227474:test-one-document-indexing
+1696884108762:shutdown-cluster
+1696909492970:login
+1696909504809:create-database DB1
+1696909513003:create-collection DB1 C1
+1696909524276:test-database
+1696909559007:delete-collection DB1 C1
+1696909579264:delete-database DB1
+1696909592521:login
+1696909601191:create-database DB1
+1696909609513:create-collection DB1 C1
+1696909619860:test-database
+1696909710241:help
+1696909720244:test-one-document-indexing
+1696909821318:delete-database DB1
+1696909845475:create-database DB1
+1696909856132:create-collection DB1 C1
+1696909863786:test-database
+1696909903683:delete-database DB1
+1696914334073:login
+1696914345115:create-database DB1
+1696914356043:create-collection DB1 C1
+1696914362085:test-database
+1696914495499:login
+1696914505092:create-database DB1
+1696914516975:delete-collection DB1 C1
+1696914525462:create-collection DB1 C1
+1696914531952:test-database
+1696914591189:delete-database DB1
+1696918458914:login
+1696918467752:create-database DB1
+1696918475797:create-collection DB1 C1
+1696918488503:test-database
+1696918508353:delete-database DB1

@@ -1,0 +1,131 @@
+1696015207473:clear
+1696015223437:login
+1696015236781:clear
+1696015249870:help
+1696015274650:create-database Good-School
+1696015306269:create-collection Good-School Math
+1696015391056:add-document Good-School Math {"_id":1, "name":"Hassan", "Array":["Hello","World"]}
+1696015510070:add-document Good-School Math '{"_id":1, "name":"Hassan", "Array": ["Hassan", "Safadi"]}'
+1696015532199:get-document Good-School Math 1
+1696015542613:help
+1696015571939:get-document-by-index Good-School Math 1
+1696419541297:login
+1696419560447:create-database Good-School
+1696419582007:create-collection Good-School Math
+1696419590287:help
+1696419686535:add-document Good-School Math '{"_id":1, "name":"Hassan", "Array":["Hello", "World"]}'
+1696419714307:get-document-by-indez Good-School Math 1
+1696419736627:get-document-by-index Good-School Math 1
+1696419789463:add-document Good-School Math '{"_id":2, "name":"Ahmad", "Array":["Hello", "Ahmad"]}'
+1696419795380:help
+1696419806385:get-documents Good-School Math
+1696420879275:clear
+1696420890248:login
+1696420907482:help
+1696421192237:login
+1696421693099:create-database Good-School
+1696421710493:create-collection Good-School Math
+1696421783710:add-document Good-School Math '{"_id":1, "name":"Hassan", "Array":["Hello", "World"]}'
+1696421789847:help
+1696421801876:get-documents Good-School Math
+1696421836232:add-document Good-School Math '{"_id":2, "name":"Ahmad", "Array":["Hello", "Ahmad"]}'
+1696421906528:add-document Good-School hello '{"_id":1, "Name":"Hassan"}'
+1696421921142:add-document hello Math '{"_id":1, "Name":"Hassan"}'
+1696860363337:login
+1696860382191:shutdown-cluster
+1696861145285:login
+1696861159509:test-database
+1696861176668:create-database DB1
+1696861186816:create-collection DB1 C1
+1696861209181:test-database
+1696861282279:help
+1696861300823:test-one-document-indexing
+1696861396320:login
+1696861401815:help
+1696861411255:test-one-document-indexing
+1696862197116:delete-collection DB1 C1
+1696862205242:create-collection DB1 C1
+1696862487744:test-database
+1696862599628:help
+1696862611340:test-one-document-indexing
+1696866217085:shutdown-cluster
+1696909988718:help
+1696910017889:login
+1696910206556:create-database DB1
+1696910215277:create-collection DB1 C1
+1696910235054:test-database
+1696910332476:login
+1696910340930:test-database
+1696910375354:cleat
+1696910428803:clear
+1696910448367:help
+1696910461405:test-one-document-indexing
+1696910542896:create-collection DB1 Math
+1696910620220:add-document DB1 Math '{"_id":1, "name": "Hassan", "mathScore":110}'
+1696911637679:shutdown-cluster
+1696914613346:cls
+1696914614949:clear
+1696914618095:help
+1696914621300:login
+1696914630351:create-database DB1
+1696914637258:create-collection DB1 C1
+1696914647691:test-database
+1696914717973:help
+1696914727676:test-one-document-indexing
+1696914813452:delete-database DB1
+1696914917616:login
+1696914947514:create-database DB1
+1696914957204:create-collection DB1 C1
+1696915406826:help
+1696915418539:test-one-document-indexing
+1696915432382:test-database
+1696915466108:test-one-document-indexing
+1696915507756:delete-database DB1
+1696918229090:clear
+1696918234166:login
+1696918241867:shutdown-cluster
+1696918558784:create-database DB1
+1696918561632:login
+1696918569132:create-database DB1
+1696918576353:create-collection DB1 C1
+1696918582236:test-database
+1696918614588:help
+1696918629813:test-one-document-indexing
+1696918646053:delete-database DB1
+1696919034654:login
+1696919043814:create-database DB1
+1696919063671:delete-database DB1
+1696920849133:login
+1696920866247:create-database DB1
+1696920883014:create-collection DB1 C1
+1696921487974:test-database
+1696921552192:help
+1696921578835:test-one-document-indexing
+1696921612522:help
+1696921663601:create-collection DB1 Math
+1700466840811:login
+1700466850737:help
+1700466864685:create-database Good-School
+1700466882053:create-collection Good-School Math
+1700466946194:add-document Good-School Math '{"_id":1, "name":"Hassan", "Array":["Hello", "World"]}'
+1700466960183:get-document Good-School Math 1
+1700466989525:get-document-by-index Good-School Math 1
+1700471390448:get-document-by-field Good-School Math name Hassan
+1700472303738:shutdown-cluster
+1700549522148:clear
+1700549523490:cls
+1700549534918:login
+1700549550029:create-database Good-School
+1700549603523:create-collection Good-School Math
+1700549855418:add-document Good-School Math '{"_id":1, "name":"Hassan","mathScore":110}'
+1700549902846:add-document Good-School Math '{"_id":1, "name":"Hassan","mathScore":10}'
+1700549953754:add-document Good-School Math '{"_id":1, "name":"Moh","mathScore":20}'
+1700549992423:get-document-by-index Good-School Math 1
+1700550041079:help
+1700550076255:get-document-by-field Good-School Math name Hassan
+1700550089826:add-document Good-School Math '{"_id":2, "name":"Moh","mathScore":20}'
+1700550103894:add-document Good-School Math '{"_id":3, "name":"Hassan","mathScore":20}'
+1700550107810:get-document-by-field Good-School Math name Hassan
+1700550198133:get-document-by-field Good-School Math mathScore 20
+1700550240291:help
+1700550246143:shutdown-cluster

@@ -1,0 +1,33 @@
+create-database Good-School
+
+create-collection Good-School Math
+
+{
+    "type": "object",
+    "properties": {
+        "_id": {
+            "type": "integer"
+        },
+        "name": {
+            "type": "string"
+        },
+        "mathScore": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 100
+        },
+        "attendance": {
+            "type": "boolean"
+        }
+    },
+    "required": ["_id", "name", "mathScore"]
+}
+
+add-document Good-School Math '{"_id":1, "name":"Hassan","mathScore":110}'
+
+add-document Good-School Math '{"_id":1, "name":"Hassan","mathScore":10}'
+
+add-document Good-School Math '{"_id":1, "name":"Moh","mathScore":20}'
+
+get-document-by-index Good-School Math 1 
+
